@@ -1,0 +1,42 @@
+{
+  "User": [
+    {
+      "name": "Ajay",
+      "age": "22",
+      "city": "Noida",
+      "email": "ajay@email.com",
+      "id": "1"
+    },
+    {
+      "id": "afbd",
+      "name": "lucky",
+      "age": "24",
+      "city": "noida",
+      "email": "lucky@gmaial.com"
+    },
+    {
+      "id": "4539",
+      "name": "kapil",
+      "age": "27",
+      "city": "lko",
+      "email": "kapil@gmail.com"
+    },
+    {
+      "id": "a3fe",
+      "name": "Abhishek",
+      "age": "27",
+      "city": "Akhilesh Yadav",
+      "email": "akhilesh@gmail.com"
+    },
+    {
+      "name": "Rocky",
+      "age": "25",
+      "city": "KGF",
+      "email": "kgf@gmail.com",
+      "id": "3dc3"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
